@@ -5,11 +5,6 @@
 		<td>
 		</td>
 		<td>
-			<a>
-				<img 
-					align="center" 
-					src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukeDSchenk&theme=gruvbox&layout=compact&count_private=true" />
-			</a>
 		</td>
 	</tr>
 </table>
