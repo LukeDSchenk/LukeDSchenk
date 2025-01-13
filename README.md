@@ -3,11 +3,6 @@
 <table style="width:100%;">
 	<tr>
 		<td>
-			<a>
-				<img 
-					align="center" 
-					src="https://github-readme-stats.vercel.app/api?username=LukeDSchenk&hide=contribs&show_icons=true&theme=gruvbox&count_private=true" />
-			</a>
 		</td>
 		<td>
 			<a>
