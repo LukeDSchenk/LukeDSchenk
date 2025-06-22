@@ -1,14 +1,5 @@
 ### 🥴
 
-<table style="width:100%;">
-	<tr>
-		<td>
-		</td>
-		<td>
-		</td>
-	</tr>
-</table>
-
 <!--
 **LukeDSchenk/LukeDSchenk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
